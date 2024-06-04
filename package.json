@@ -1,0 +1,27 @@
+{
+  "name": "state-manager-jeph",
+  "version": "1.0.1",
+  "description": "StateManager is a Javascript class for reactive management of the state of an application. It allows to initialize, access, and modify the state centrally, while checking that all keys have defined values one can even remove keys during verification. Uses a proxy to monitor access and property changes.",
+  "main": "jeph",
+  "scripts": {
+    "test": "node ./try.js"
+  },
+  "keywords": [
+    "state-management",
+    "reactive-state",
+    "state-proxy",
+    "state-handler",
+    "state-validation",
+    "javascript",
+    "es6",
+    "frontend",
+    "backend",
+    "web-development",
+    "state-check",
+    "object-proxy",
+    "state-update",
+    "state-access"
+  ],
+  "author": "Jeph SARA",
+  "license": "ISC"
+}
