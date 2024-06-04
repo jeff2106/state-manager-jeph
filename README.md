@@ -13,7 +13,7 @@ StateManager is a simple JavaScript class that provides state management capabil
 To include `StateManager` in your project, you can simply import it from your JavaScript file:
 
 ```javascript
-const StateManager = require('./path/to/StateManager');
+const StateManager = require('state-manager-jeph');
 ```
 
 ## Usage
